@@ -2,10 +2,10 @@
 
 Data set Description 
 
-What is Pokémon Go?
+What is Pokémon Go? 
 Pokémon Go is a free-to-play, location-based augmented reality game developed by Niantic for iOS and Android devices. It was released in July 2016 and in a few selected countries. You can download Pokémon for free of cost and start playing. You can also use PokéCoins to purchase Pokéballs, the in-game item you need to be able to catch Pokémons with. Let us see how to be performing Pokémon data analysis.
 
-Dataset Description: 
+Dataset Columns Description: 
 
 The dataset consists of 11 columns and their respective description is as follows:
 •	Pokemonid_Number: This column represents the ids of every Pokémon. 
