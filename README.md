@@ -27,3 +27,4 @@ Big Data Hadoop : in order to pull the data stored in HDFS
 SQL / HIVE : in order to create table , work and Analyze huge amount of datas 
 TABLEAU : for Data visualization ,also we should aware of ; how to connect to HIVE tables running on server .
 WinSCP : This is FTP client in case we need data to be pulled from your Local/Remote Widows Machines to Your working Unix Based Servers
+
